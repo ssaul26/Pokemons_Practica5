@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "122409574036",
+    "project_id": "pokemonsapp-9f6f6",
+    "storage_bucket": "pokemonsapp-9f6f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122409574036:android:8d2f0033688e6a4edc5e81",
+        "android_client_info": {
+          "package_name": "com.mexiti.pokemons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvmpu8oQwxzd9rYa60MJRQ59DYRNXydpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
