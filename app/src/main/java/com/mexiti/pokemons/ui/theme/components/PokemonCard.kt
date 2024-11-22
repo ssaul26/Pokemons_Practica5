@@ -17,7 +17,7 @@ import com.mexiti.pokemons.model.Pokemon
 
 
 @Composable
-fun PokemonCard(pokemon: Pokemon) {
+fun PokemonCards(pokemon: Pokemon) {
     Card(
         modifier = Modifier
             .fillMaxWidth()
